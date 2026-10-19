@@ -1,0 +1,3 @@
+# Minden torpedó Primary üres, Seconady tele
+GT4500,0,0,10,0
+TORPEDO,ALL

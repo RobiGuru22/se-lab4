@@ -1,0 +1,4 @@
+# Minden torpedó kilövése
+GT4500,10,0,10,0
+TORPEDO,ALL
+TORPEDO,SINGLE

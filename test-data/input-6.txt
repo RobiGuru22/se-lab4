@@ -1,0 +1,4 @@
+# Másodlagos tár dupla tüzelés teszt
+GT4500,0,0,2,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE

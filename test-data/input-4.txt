@@ -1,0 +1,3 @@
+# Hibás tár esetén a rendszer nem tüzel másik tárból teszt
+GT4500,10,1,10,0
+TORPEDO,SINGLE
